@@ -4,7 +4,7 @@ export const Block = styled.section({
   marginLeft: 'auto',
   marginRight: 'auto',
   marginTop: '32px',
-  width: '50%',
+  width: '320px',
 });
 
 export const Title = styled.h2({
